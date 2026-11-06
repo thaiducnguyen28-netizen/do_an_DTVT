@@ -16,9 +16,9 @@
 #include <Preferences.h>
 #include <Arduino.h>
 // ---------- WiFi ----------
-const char auth[] = BLYNK_AUTH_TOKEN;
-const char ssid[] = "TEN_WIFI";
-const char pass[] = "MAT_KHAU_WIFI";
+const char auth[] = BsnuCVAo14WuwiWjkzW1LgQrLMFzZFCY;
+const char ssid[] = "DO AN NHOM4";
+const char pass[] = "qwertyuiop";
 
 // ---------- Chan ----------
 #define DHTPIN       17
